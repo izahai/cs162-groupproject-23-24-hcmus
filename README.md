@@ -1,4 +1,4 @@
-# Course Management System (CS162 - CSC10002 Group Project)
+# Course Management System (CS162 Group Project)
 
 ## Overview
 
